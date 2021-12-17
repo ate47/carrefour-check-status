@@ -1,3 +1,5 @@
+/!\\ L'api bloque lorsque trop de demandes sont faites, rendant le code inopérant.
+
 # carrefour-check-status
 
 Petit bout de code en Python pour vérifier les stocks de Carrefour dans tous les départements de France pour trouver une Xbox Series X ! 
